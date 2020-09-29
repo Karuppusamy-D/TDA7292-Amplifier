@@ -1,0 +1,4 @@
+2 layer 100*100mm
+Copper Weight = 1 oz
+Material Details : FR4-Standard Tg 140C
+Surface Finish : HASL - Hot Air Solder Leveling
